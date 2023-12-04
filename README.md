@@ -2,11 +2,12 @@
 Vigor - A Welcoming Health Community App
 
 
-**Introduction**
+###**Introduction**###
 Welcome to the official repository for Vigor, a freemium health-focused social app designed to foster a safe and inclusive environment for discussions about medical conditions and overall wellbeing. Vigor aims to serve as a platform where diverse communities, especially women, ethnic minorities, and disabled users, can share experiences, find support, and gain knowledge in the realm of health and wellness.
 
 
-**Features of MVP:**
+
+###**Features of MVP:**###
 
 
 This repository contains the code for the Minimum Viable Product (MVP) of Vigor, which includes the following key features:
@@ -22,7 +23,10 @@ This repository contains the code for the Minimum Viable Product (MVP) of Vigor,
 **Basic Search Functionality:** A tool to find relevant havens and posts.
 
 
-**Technology Stack**
+
+
+###**Technology Stack**###
+
 **Backend:** Developed in Kotlin, using [Ktor/Spring Boot] as the web framework.
 
 **Database:** [TBC]
@@ -32,23 +36,28 @@ This repository contains the code for the Minimum Viable Product (MVP) of Vigor,
 **Security:** [TBC]
 
 
-**Project Structure:**
+
+###**Project Structure:**###
 The repository is organised into various modules for ease of navigation and scalability. 
 
 
-**Getting Started:**
+
+###**Getting Started:**###
 [TBC]
 
 
-**Contribution:**
+
+###**Contribution:**###
 [TBC]
 
 
-**License:**
+
+###**License:**###
 [TBC]
 
 
-**Acknowledgements:**
+
+###**Acknowledgements:**###
 Special thanks to @mentor for their support to this project.
 
 
