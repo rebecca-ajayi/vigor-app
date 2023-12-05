@@ -1,0 +1,5 @@
+package EnumClasses
+
+class HavenCategory {
+
+}
